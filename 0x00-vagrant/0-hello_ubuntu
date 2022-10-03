@@ -1,1 +1,3 @@
-prints the core operating system name
+cd zero_day
+cd 0x00-vagrant
+touch 0-hello_ubuntu
